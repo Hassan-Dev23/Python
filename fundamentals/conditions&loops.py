@@ -42,3 +42,13 @@ print(ha)
 
 _ha="hab"
 print(_ha)
+
+
+# while loop
+
+string= "Hassan"
+
+while len(string)<=10:
+    print(string)
+    string=string+'_'
+
